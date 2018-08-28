@@ -33,8 +33,8 @@ app:
   # 640x1136px
 
   #app_twitter: # uncomment if the app has a twitter account "@my-awesome-app"
-  #creator_twitter: @rtmmatrix # uncomment if creator has a twitter account "@rtmmatrix"
-  #social_image: # uncomment and add an image - defaults to icon
+  creator_twitter: @rtmmatrix # uncomment if creator has a twitter account "@rtmmatrix"
+  social_image: # uncomment and add an image - defaults to icon
   # This will show up when your url is shared on sites like facebook and twitter
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-social_image.png
@@ -42,8 +42,8 @@ app:
 #
 # Marketing
 #
-marketing_header: �V�����ʘb���f����`�� # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: 新しい通話モデルを描く # Optional
+marketing_desc: 誰にだって小さな特技がある。笑いを取るのが得意だったり、悩み事を聞くのが上手だったり。あるいは、何か皆が知らない知識を持っていたり。インターネットが普及した今、「あなたの特技」を待っている人となんて、いくらでも繋がれます。そんなあなたの特技を、「電話」を使って提供できる、そんな新しい世界を「colligo」は目指します。今夜私たちは電話を再発明するのです。
 
 #
 # Social Links
