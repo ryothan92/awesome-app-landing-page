@@ -9,12 +9,12 @@
 #
 app:
   name: colligo # REQUIRED - Enter your app name
-  ios_id: 000000000 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  ios_id: 0000000000 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: # Optional - Enter Android app id like: com.example.app
 
-  icon:images/colligoicon.jpeg # Leave blank to auto-magically populate
+  icon: images/colligoicon.jpeg # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
-  # e.g. images/app-icon-512.png
+  # e.g. images/colligoicon.jpeg
   # 512px or greater, square
 
   #favicon: # uncomment if uploading own favicon
@@ -42,7 +42,7 @@ app:
 #
 # Marketing
 #
-marketing_header: ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½Ê˜bï¿½ï¿½ï¿½fï¿½ï¿½ï¿½ï¿½`ï¿½ï¿½ # Optional
+marketing_header: V‚µ‚¢’Ê˜bƒ‚ƒfƒ‹‚ğ•`‚­ # Optional
 marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 #
@@ -53,7 +53,7 @@ marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 social-links:
   github:
   facebook:
-  twitter:https://twitter.com/rtmmatrix/
+  twitter: https://twitter.com/rtmmatrix/
   pinterest:
   instagram:
   email:
