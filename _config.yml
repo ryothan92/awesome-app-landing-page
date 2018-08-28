@@ -1,4 +1,4 @@
-ï»¿#
+ï¿½ï½¿#
 # Awesome App Landing Page Config
 #
 
@@ -33,8 +33,8 @@ app:
   # 640x1136px
 
   #app_twitter: # uncomment if the app has a twitter account "@my-awesome-app"
-  #creator_twitter: @rtmmatrix # uncomment if creator has a twitter account "@rtmmatrix"
-  #social_image: # uncomment and add an image - defaults to icon
+  creator_twitter: @rtmmatrix # uncomment if creator has a twitter account "@rtmmatrix"
+  social_image: # uncomment and add an image - defaults to icon
   # This will show up when your url is shared on sites like facebook and twitter
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-social_image.png
@@ -42,8 +42,10 @@ app:
 #
 # Marketing
 #
-marketing_header: V‚µ‚¢’Ê˜bƒ‚ƒfƒ‹‚ğ•`‚­ # Optional
+
+marketing_header: æ–°ã—ã„é€šè©±ãƒ¢ãƒ‡ãƒ«ã‚’æã # Optional
 marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
 
 #
 # Social Links
